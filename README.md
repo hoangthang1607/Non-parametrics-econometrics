@@ -1,0 +1,1 @@
+# Un mini-projet j'ai travaillé sur non-parametriques méthodes en économétries: spline and GAM model  
